@@ -8,8 +8,8 @@ def levitation_quiz
 
 puts "You passed the quiz!"
 
-levitation_quiz
-
 end
+
+levitation_quiz
 
 
